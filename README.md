@@ -1,5 +1,6 @@
 # Loop-Machine-App
 
+<img src="img/111.png" alt="register" width="300">
 
 The Looper App allows for simultaneous activation of multiple HTML audio elements. The app consists of a time tracker with drag & drop abilities to reach the desired play time, 9 audio channels, each with an individual volume range picker & mute toggle button and a uniquely colored audio wave, and a bottom control panel with a play/ pause button, a stop button, and a loop toggle button to control audio tracks play-time behavior.
 
