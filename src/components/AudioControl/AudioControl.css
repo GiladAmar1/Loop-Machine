@@ -1,0 +1,30 @@
+.buttons {
+  justify-content: center;
+  display: flex;
+  padding-top: 20px;
+  align-items: center;
+  gap: 30px;
+}
+
+.button {
+  overflow: visible;
+  background-color: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.button {
+  overflow: visible;
+  background-color: transparent;
+  border: none;
+  color: white;
+}
+
+.button:focus {
+  outline: none;
+}

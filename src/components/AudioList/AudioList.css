@@ -1,0 +1,59 @@
+.container {
+  position: relative;
+}
+.title {
+  color: aliceblue;
+  font-size: 100px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.progressbar {
+  position: absolute;
+  left: 245px;
+  -webkit-appearance: none;
+  width: 75%;
+  height: 1045px;
+  background: transparent;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.progressbar::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 1025px;
+  width: 1px;
+  background: transparent;
+  background: rgb(24, 152, 62);
+  cursor: pointer;
+}
+
+.audioitem {
+  list-style: none;
+}
+
+.audioListwrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.audiolist-container {
+  display: flex;
+  flex-direction: column;
+}
+.progressbarAndItems {
+  position: relative;
+}
+.time-section {
+  display: flex;
+  justify-content: center;
+  color: aliceblue;
+  margin-top: 10px;
+}
+.time {
+  font-size: 50px;
+}
