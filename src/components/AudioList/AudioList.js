@@ -17,7 +17,7 @@ export const audioList = [
   { audio: new Audio(Audio1), background: "#f0e68c", title: "Audio2" },
   { audio: new Audio(Audio2), background: "#fffacd", title: "Audio3" },
   { audio: new Audio(Audio3), background: "#fffaf0", title: "Audio4" },
-  { audio: new Audio(Audio4), background: "#1e90ff", title: "audio5" },
+  { audio: new Audio(Audio4), background: "#1e90ff", title: "Audio5" },
   { audio: new Audio(Audio5), background: "#00bfff", title: "Audio6" },
   { audio: new Audio(Audio6), background: "#87cefa", title: "Audio7" },
   { audio: new Audio(Audio7), background: "#add8e6", title: "Audio8" },
